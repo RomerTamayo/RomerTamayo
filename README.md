@@ -5,11 +5,13 @@
 
 
 <p><img align="right" height="250" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0amsyZmYzejgxejFiOThpYWpjZm9tMWNvZ21icjVyaHRsZmxncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
-
+<div align="left">
 <h3 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h3>
 <p align="left">
+I introduce myself:
+<br/>
 - I am passionate about technology and science.
 <br/>
 - I love everything related to programming.
@@ -23,6 +25,7 @@
 <p align="left">
   Nice to meet you
 </p>
+</div>
 <br/>
 
 
@@ -32,38 +35,33 @@
 
 
 <div align="Center">
-
-
-<br>
-
-
-<p><img align="left" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dyejUycHV1azFkZWEzbHB4eTUxanp5NHBoazN2djltaTU3MjVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"/></p>
+<p><img align="left" width="400px" height="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dyejUycHV1azFkZWEzbHB4eTUxanp5NHBoazN2djltaTU3MjVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"/></p>
+  
+<div align="right">
 <h3 align="center">
+  <br/>
   Additional Experience
 </h3>
-
-<br>
-<p container align="center">
+<p align="center">
 I also have experience in network certification endorsed by Cisco and the Universidad Mayor de San Andrés, especially metro networks, where my skills in resolving international connection failures stand out.
 Working on projects with companies such as AXS, Huawei, Datec, and clients in the banking system.
 </p>
+  <br/>
+</div>
 
-<br>
-<br>
+<br/>
+<br/>
 
-<div align="Center">
-
+<div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Operating Systems <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 <div>
   <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 </div>
-
-
 </div>
 
+   
 <div>
-
   <h2 align="center">
 Technologies and Languages </h2>
 
