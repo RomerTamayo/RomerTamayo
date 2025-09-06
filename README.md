@@ -7,7 +7,11 @@
 
 <br/>
   
-<p><img align="right"  width="450px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R4MTRndHlvemNxOTV5bWkzYnk3bGVzdjBqejk5Yno0eTVmdWFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" /></p>
+<p>
+  <img align="right"  width="450px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R4MTRndHlvemNxOTV5bWkzYnk3bGVzdjBqejk5Yno0eTVmdWFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" />
+  <br/>
+  
+</p>
 <div align="left">
 <h3 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -38,11 +42,14 @@ I introduce myself:
 
 
 <div align="Center">
-<p><img align="left" width="400px" height="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dyejUycHV1azFkZWEzbHB4eTUxanp5NHBoazN2djltaTU3MjVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"/></p>
+<p>
+  <img align="left" width="400px" height="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dyejUycHV1azFkZWEzbHB4eTUxanp5NHBoazN2djltaTU3MjVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif"/>
+  <br/>
+  
+</p>
   
 <div align="right">
 <h3 align="center">
-  <br/>
   Additional Experience
 </h3>
 <p align="center">
@@ -113,8 +120,8 @@ Technologies and Languages </h2>
 
 <br>
 <h1>I love uplifting trance music</h1>
-<p><img align="right"  width="450px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlvN3liN2pjZ2RvbXh1ZXRoeXJlcWxpbmVtbmVremZudnVxMTFhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buineqO3I5l3hM4/giphy.gif" /></p>
-<p><img align="left"  width="450px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwZXEwcXJ4M2pvMHgzdHU2NTg1YjJ5c3c2b3llOXJ5ZTNlc2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xpLp2KYKZ3WzVC3la/giphy.gif" /></p>
+<p><img align="right"  width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlvN3liN2pjZ2RvbXh1ZXRoeXJlcWxpbmVtbmVremZudnVxMTFhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buineqO3I5l3hM4/giphy.gif" /></p>
+<p><img align="left"  width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwZXEwcXJ4M2pvMHgzdHU2NTg1YjJ5c3c2b3llOXJ5ZTNlc2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xpLp2KYKZ3WzVC3la/giphy.gif" /></p>
 
 <br>
 <br>
