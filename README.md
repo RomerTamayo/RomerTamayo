@@ -4,7 +4,7 @@
 </div>
 
 
-<p><img align="right" height="250" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0amsyZmYzejgxejFiOThpYWpjZm9tMWNvZ21icjVyaHRsZmxncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<p><img align="right"  width="400px" height="350px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0amsyZmYzejgxejFiOThpYWpjZm9tMWNvZ21icjVyaHRsZmxncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 <div align="left">
 <h3 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
