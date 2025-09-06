@@ -1,10 +1,13 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 <div align="center">
+  <h2>I use Arch btw</h2>
 </div>
 
 
-<p><img align="right"  width="400px" height="350px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR0amsyZmYzejgxejFiOThpYWpjZm9tMWNvZ21icjVyaHRsZmxncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<br/>
+  
+<p><img align="right"  width="450px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R4MTRndHlvemNxOTV5bWkzYnk3bGVzdjBqejk5Yno0eTVmdWFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" /></p>
 <div align="left">
 <h3 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -29,7 +32,7 @@ I introduce myself:
 <br/>
 
 
-
+<br/>
 
 
 
@@ -44,11 +47,12 @@ I introduce myself:
 </h3>
 <p align="center">
 I also have experience in network certification endorsed by Cisco and the Universidad Mayor de San Andrés, especially metro networks, where my skills in resolving international connection failures stand out.
-Working on projects with companies such as AXS, Huawei, Datec, and clients in the banking system.
+Working on projects with companies such as AXS, Huawei, Datec and clients in the banking system.
 </p>
   <br/>
 </div>
 
+<br/>
 <br/>
 <br/>
 
@@ -107,6 +111,10 @@ Technologies and Languages </h2>
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
+<br>
+<h1>I love uplifting trance music</h1>
+<p><img align="right"  width="450px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlvN3liN2pjZ2RvbXh1ZXRoeXJlcWxpbmVtbmVremZudnVxMTFhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buineqO3I5l3hM4/giphy.gif" /></p>
+<p><img align="left"  width="450px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwZXEwcXJ4M2pvMHgzdHU2NTg1YjJ5c3c2b3llOXJ5ZTNlc2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xpLp2KYKZ3WzVC3la/giphy.gif" /></p>
 
 <br>
 <br>
